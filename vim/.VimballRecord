@@ -1,0 +1,7 @@
+manpageview.vba: call delete('/home/a/.vim/plugin/manpageviewPlugin.vim')|call delete('/home/a/.vim/autoload/manpageview.vim')|call delete('/home/a/.vim/syntax/man.vim')|call delete('/home/a/.vim/syntax/mankey.vim')|call delete('/home/a/.vim/syntax/info.vim')|call delete('/home/a/.vim/syntax/manphp.vim')|call delete('/home/a/.vim/doc/manpageview.txt')
+winmanager.vba: call delete('/home/a/.vim/doc/winmanager.txt')|call delete('/home/a/.vim/plugin/start.gnome')|call delete('/home/a/.vim/plugin/start.kde')|call delete('/home/a/.vim/plugin/winfileexplorer.vim')|call delete('/home/a/.vim/plugin/winmanager.vim')|call delete('/home/a/.vim/plugin/wintagexplorer.vim')
+supertab.vba: call delete('/home/a/.vim/doc/supertab.txt')|call delete('/home/a/.vim/plugin/supertab.vim')
+tagbar.vba: call delete('/home/a/.vim/plugin/tagbar.vim')|call delete('/home/a/.vim/syntax/tagbar.vim')|call delete('/home/a/.vim/doc/tagbar.txt')
+zenburn.vba: call delete('/home/a/.vim/colors/zenburn.vim')
+tagbar.vmb: call delete('/home/a/.vim/autoload/tagbar.vim')|call delete('/home/a/.vim/doc/tagbar.txt')|call delete('/home/a/.vim/plugin/tagbar.vim')|call delete('/home/a/.vim/syntax/tagbar.vim')
+tagbar.vmb: call delete('/home/a/.vim/autoload/tagbar.vim')|call delete('/home/a/.vim/doc/tagbar.txt')|call delete('/home/a/.vim/plugin/tagbar.vim')|call delete('/home/a/.vim/syntax/tagbar.vim')

@@ -1,0 +1,2 @@
+3.0
+{'neobundle.vim': {'checked_time': 1464867674, 'installed_uri': 'https://github.com/Shougo/neobundle.vim.git', 'installed_path': '/home/gzxiangxunwen/.vim/bundle/neobundle.vim', 'revisions': {}, 'updated_time': 1464867674}, 'ctrlp.vim': {'checked_time': 1464867681, 'installed_uri': 'https://github.com/ctrlpvim/ctrlp.vim.git', 'installed_path': '/home/gzxiangxunwen/.vim/bundle/ctrlp.vim', 'revisions': {'1462105571': '28fce0fb860fe8df0915da1de1fb6e90d6ab2edc'}, 'updated_time': '1462105571'}}
